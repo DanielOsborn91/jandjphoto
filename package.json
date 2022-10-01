@@ -1,7 +1,7 @@
 {
   "name": "jandjphoto",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "www.danielosborn91.github.io/jandjphoto",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12dbba094244b9b9bd953fc089eba295",
+    "revision": "e7f834c153ee03f20d398a1749ef9e2a",
     "url": "/jandjphoto/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jandjphoto/static/css/2.c9d8cff1.chunk.css"
   },
   {
-    "revision": "873966d728758ab8eec1",
+    "revision": "d3534535d0b51067b8c4",
     "url": "/jandjphoto/static/css/main.6bb29406.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jandjphoto/static/js/2.85c9dd78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "873966d728758ab8eec1",
-    "url": "/jandjphoto/static/js/main.39664a68.chunk.js"
+    "revision": "d3534535d0b51067b8c4",
+    "url": "/jandjphoto/static/js/main.88c1550d.chunk.js"
   },
   {
     "revision": "a5e417f9d4c67c6f3ed6",

@@ -139,7 +139,7 @@ class Header extends Component {
 								<NavLink className='nav-link' to='/contact'> Contact </NavLink>
 							</NavItem>
 							<NavItem>
-								<NavLink className='nav-link' to="">Shop</NavLink>
+								<NavLink className='nav-link' to={{pathname: 'https://amazon.com'}} href='www.amazon.com'>Shop</NavLink>
 							</NavItem>
 
 						</Nav>

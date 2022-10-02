@@ -2,7 +2,7 @@
   "name": "jandjphoto",
   "version": "0.1.0",
   "private": false,
-  "homepage": "www.danielosborn91.github.io/jandjphoto",
+  "homepage": "https://danielosborn91.github.io/jandjphoto",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -11,7 +11,6 @@
     "bootstrap-social": "^5.1.1",
     "emailjs-com": "^2.4.1",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^4.0.0",
     "react": "^16.13.1",
     "react-animation-components": "^3.0.0",
     "react-dom": "^16.13.1",
@@ -50,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }

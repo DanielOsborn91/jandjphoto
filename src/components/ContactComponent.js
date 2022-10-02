@@ -54,7 +54,7 @@ class Contact extends Component {
         return (
             <div className='inner'>
                 <div className='center'>
-                    <img src='/assets/images/carnation.jpg' height='100px' width='100px' alt="" ></img>
+                    <img src='./jandjphoto/assets/images/carnation.jpg' height='100px' width='100px' alt="" ></img>
                 </div>
                 <h1 className="p-heading1">Get in Touch!</h1>
                 <p>We'd love to hear from you and be a part of your plans! <br />
